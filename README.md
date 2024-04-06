@@ -1,2 +1,2 @@
 # ExportChecker
-Digital Asset to verify  attributes before exporting.
+HDA to verify  attributes before exporting.
